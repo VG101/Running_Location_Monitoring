@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: running-location-service
+peggy:
+  name: 504-peggy-dev
